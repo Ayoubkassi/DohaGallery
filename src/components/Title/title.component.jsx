@@ -4,9 +4,9 @@ import './title.styles.css';
 const Title = () => {
   return (
     <div className="title">
-      <h1>Ensak Titiz</h1>
+      <h1>Doha Ayougil</h1>
       <h2>Pictures</h2>
-      <p>Hey Hey and Welcome Again Hna Titiz d Ensa Kenitra</p>
+      <p>Hey Hey and Welcome Again This is Doha Gallery </p>
     </div>
   )
 }
